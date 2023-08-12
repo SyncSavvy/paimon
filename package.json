@@ -1,0 +1,20 @@
+{
+  "name": "paimon",
+  "version": "1.0.0",
+  "description": "Bot for the StrfallSynducate server discord",
+  "main": "app/paimon.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "Bot",
+    "Discord",
+    "AI"
+  ],
+  "author": "Mateus Nunes",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1"
+  }
+}
